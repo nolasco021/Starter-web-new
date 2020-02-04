@@ -8,7 +8,11 @@ Add some more text here <<<
 
 Please fork this repository and then issue pull requests for review.
 
+<<<<<<< Updated upstream
 adssdasadsasadsadsadsadhadhawia
+=======
+Please leave here
+>>>>>>> Stashed changes
 
 ### Copyright
 
