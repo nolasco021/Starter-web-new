@@ -12,5 +12,5 @@ Please fork this repository and then issue pull requests for review.
 
 Adding some input text here
 
-2014 Git Training
+2014 Git Training All rights reserved.
 
